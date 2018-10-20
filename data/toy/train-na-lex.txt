@@ -1,0 +1,21 @@
+u d d u #UNK# x d b b c 
+e d u x u e e z d 
+a b a 
+b #UNK# e f z f #UNK# f c d
+0 3 6 3 PROPER 0 SINGULAR NEUTRAL
+2 1 2 1 PROPER 0 PLURAL MALE
+
+d x f c
+x d x #UNK#
+a z b x e x f b
+u f z b f b
+x d x u z d a #UNK# b u
+0 1 3 2 PROPER 0 PLURAL MALE
+2 3 6 3 PROPER 0 PLURAL MALE
+4 2 5 4 PROPER 0 PLURAL MALE
+
+d b f b a f
+f b u c a f #UNK# f
+b x b u z u
+0 2 4 2 PROPER 0 PLURAL MALE
+1 1 4 2 PROPER 0 PLURAL MALE
